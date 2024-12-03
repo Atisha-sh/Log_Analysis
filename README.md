@@ -19,8 +19,10 @@ Outputs a CSV file summarizing requests per IP, the most accessed endpoint, and 
 Displays key findings in the terminal for quick review.
 
 ## Technologies Used
-### Python: The main programming language for parsing and analyzing logs.
-### CSV Module: For creating structured reports in CSV format.
+### Python: 
+The main programming language for parsing and analyzing logs.
+### CSV Module: 
+For creating structured reports in CSV format.
 
 ## File Structure
 ```
